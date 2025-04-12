@@ -1,6 +1,6 @@
 # Bobcat
 
-Case, plate, and PCB outline files for **Bobcat**, a 50% keyboard with a dual mounting system for top mount and PCB-mounted tadpole mount. Bobcat is designed around a 1.6mm thickness PCB, and a top mounted USB port. Three top case options are available (WK, WKL, Corner blockers).
+Case, plate, and PCB outline files for **Bobcat**, a 50% keyboard with a dual mounting system for top mount and PCB-mounted tadpole mount. Bobcat is designed around a 1.6mm thickness PCB, and a top-mounted USB port. Three top case options are available (WK, WKL, Corner blockers).
 
 ![Main](./Images/Bobcat1.png)
 
@@ -19,8 +19,9 @@ Case, plate, and PCB outline files for **Bobcat**, a 50% keyboard with a dual mo
 ### Hardware
 - Case screws: M2.5 x 10mm * 8
 - Plate screws: M2 x 6mm * 6
-- Rubber feet: Circular 8mm / 3m SJ5302
+- Rubber feet: Circular 8mm (Max) / 3M SJ5302
 
+Please note that the threaded holes are not modeled in the files.
 
 
 ### Supported Layout
