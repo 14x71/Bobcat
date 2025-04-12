@@ -20,6 +20,7 @@ Case, plate, and PCB outline files for **Bobcat**, a 50% keyboard with a dual mo
 - Case screws: M2.5 x 10mm * 8
 - Plate screws: M2 x 6mm * 6
 - Rubber feet: Circular 8mm (Max) / 3M SJ5302
+- Tadpole: [GEON Tadpole Pin D3.0](https://geon.works/products/tadpole)
 
 Please note that the threaded holes are not modeled in the files.
 
