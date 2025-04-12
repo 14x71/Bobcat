@@ -24,7 +24,7 @@ Case, plate, and PCB outline files for **Bobcat**, a 50% keyboard with a dual mo
 
 
 ### Supported Layout
-![Layout](./Images/BobcatLayout.png)
+![Layout](./Images/BobcatLayout1.png)
 
 ### Renders
 ![Render1](./Images/View1.png)
